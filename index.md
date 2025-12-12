@@ -11,4 +11,4 @@ title: Hannah Sherman
  
 My name is Hannah, and I am a fourth-year student at Cornell University studying Mechanical Engineering. 
 
-Take a look at <a href="{{ "/projects/" }}">my projects</a> and <a href="{{ "/cv/"  }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
