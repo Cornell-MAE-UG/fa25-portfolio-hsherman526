@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: 2025 Wind Turbine Blade Design Project
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
