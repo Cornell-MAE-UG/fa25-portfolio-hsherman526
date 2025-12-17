@@ -4,12 +4,7 @@ title: 2025 Wind Turbine Blade Design Project
 description: Wind Turbine Blade Design & Wind Tunnel Testing 
 technologies: [MATLAB, Autodesk Fusion]
 image: /assets/images/blade.png
-
-
 ---
-
-
-
 ## Overview 
 The goal of this project was to design a three-blade wind turbine to optimize power output at a specified design RPM based on a Weibull probability distribution for the free-stream wind velocity:
 
@@ -76,7 +71,7 @@ The NACA 7412 airfoil was selected because:
 
 ---
 
-### Aerodynamic Forces 
+### Choosing Pitch and Chord Functions
 
 Using a design wind speed of 4.4 m/s, an axial induction factor of 1/3, and an initial design RPM of 1800, aerodynamic forces were calculated to maximize useful torque: 
 
@@ -87,7 +82,13 @@ Using a design wind speed of 4.4 m/s, an axial induction factor of 1/3, and an i
 </div>
 
 
-#### Velocity Relationships
+#### Free Body Diagram
+
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/FBD.png' | relative_url }}"
+       alt="Design Process Flowchart"
+       style="max-width: 100%; height: auto;">
+</div>
 
 $$
 \phi(r) = \tan^{-1}\!\left(\frac{V}{\Omega r}\right)
