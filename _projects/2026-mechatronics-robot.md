@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Robot Design
 description: MAE 3780 Mechatronics
 technologies: [Electrical System Design, Mechanical Design, Manufacturing, Systems Testing]
-image: /assets/images/robot.JPG
+image: /assets/images/robot.jpg
 ---
 
 # MAE 3780 
