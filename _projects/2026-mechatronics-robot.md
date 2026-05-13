@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics Robot Design
 description: MAE 3780 Mechatronics
 technologies: [Electrical System Design, Mechanical Design, Manufacturing, Systems Testing]
-image: /assets/images/robot.jpg
+image: /assets/images/robot.JPG
 ---
 
 # MAE 3780 
@@ -23,7 +23,7 @@ The primary goal of this design is maximizing passive block collection, as oppos
 <br>
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/robot.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/robot.JPG' | relative_url }}"
        alt="Final Robot"
        style="max-width: 85%; height: auto; border-radius: 10px;">
 </div>
