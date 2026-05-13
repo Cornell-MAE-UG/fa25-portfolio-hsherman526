@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 2025 Wind Turbine Blade Design Project
-description: Wind Turbine Blade Design & Wind Tunnel Testing 
+title: Wind Turbine Blade Design 
+description: MAE 4272 Fluids & Heat Transfer Lab 
 technologies: [MATLAB, Autodesk Fusion]
 image: /assets/images/blade.png
 ---

@@ -1,13 +1,13 @@
 ---
 layout: project
-title: MAE 4300 Engineers & Society 
-description: Summary of Boeing 737 Max Case STudy 
+title: Engineering Ethics  
+description: MAE 4300 Engineers & Society 
 technologies: [Ethical Analysis]
 image: /assets/images/plane.jpg
 ---
 
 
-The Boeing 737 Max crashes that occurred in 2018 and 2019 due to a failure of the MCAS software system provide a case study for the ethical questions that arise when developing technological solutions that have implications far beyond their technological purpose. This case study provides insight into implications of engineering decisions that are made with regards to real-world systems. Lessons learned from this study provide useful guidelines for how individually contributing engineers as well as leaders and policy-makers can improve the introduction of new technologies to the public. 
+Summary of Boeing 737 Max Case Study: The Boeing 737 Max crashes that occurred in 2018 and 2019 due to a failure of the MCAS software system provide a case study for the ethical questions that arise when developing technological solutions that have implications far beyond their technological purpose. This case study provides insight into implications of engineering decisions that are made with regards to real-world systems. Lessons learned from this study provide useful guidelines for how individually contributing engineers as well as leaders and policy-makers can improve the introduction of new technologies to the public. 
 
 Key ethical dilemmas faced during the Boeing 737 Max Incidents: 
 1. How should Boeing balance profit and design time? 
